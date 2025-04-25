@@ -1,18 +1,21 @@
-# Dance Party Playlist Prediction
+
 <p align="center">
-  <img src=https://github.com/mei-pan/nutrition_calculator/blob/main/image.jpg alt="curtesy of DataCamp" width='auto', height='auto'>
+  <img src=https://github.com/mei-pan/Dance_party_Playlist_prediciton/blob/main/baptiste-merel-x69j7cTtiwg-unsplash.jpg alt="curtesy of DataCamp" width='800', height='auto'>
 </p>
 
-# Nutrition Calulator  
+# Dance Party Playlist Prediction 
+
 ## Data Source:
-  DataCamp - thanks DataCamp for create this mini project!
+  DataCamp 
 ## Tags:
-  Python
+  Python, Machine Learning
 ## Introduction:
-Food nutrition plays a crucial role in our daily decisions to maintain optimal health. Whether it's individuals tracking their daily nutritional intake or others simply seeking quick nutritional information about specific food items, having an easy-to-use tool can make a world of difference. Imagine a tool where you enter the name of the food item(s) and weights in grams, and within seconds, you receive the total nutritional values.
+Music plays a crucial role in setting the mood for any dance party—it can either make or break the entire experience. The right song has the power to energize the crowd, bring people together on the dance floor, and create unforgettable memories. That’s why selecting the perfect mix of tracks is more than just a fun task; it’s an essential part of a successful event. 
 
-In this mini project, I developed a nutritional calculator using Python, designed specifically for this purpose. It provides a fast and efficient way to access detailed nutritional information, empowering users to make informed choices about their health. 
+This project focuses on building a predictive model to curate a dance-themed playlist using music features and machine learning. Leveraging track-level data such as tempo, energy, danceability, and valence, the model aims to identify songs most likely to get attendees on their feet. The goal is to predict whether a song fits a dance party vibe, helping automate the playlist creation process with data-driven insights.
 
-## [Notebook Link](https://github.com/mei-pan/nutrition_calculator/blob/main/nutrition_calculator.ipynb) 
+By combining technical skills with an appreciation for music, this project demonstrates how machine learning can be used in creative, real-world scenarios. From data preprocessing to model evaluation, every step is tailored to strike the perfect balance between analytics and entertainment. In the end, it's not just about predictions—it's about creating a memorable night where the music never misses a beat.
+
+## [Notebook Link](https://github.com/mei-pan/Dance_party_Playlist_prediciton/blob/main/dance_party_song_list.ipynb) 
 
 

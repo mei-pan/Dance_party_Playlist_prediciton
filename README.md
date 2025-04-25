@@ -3,7 +3,7 @@
   <img src=https://github.com/mei-pan/Dance_party_Playlist_prediciton/blob/main/baptiste-merel-x69j7cTtiwg-unsplash.jpg alt="curtesy of DataCamp" width='800', height='auto'>
 </p>
 
-# Dance Party Playlist Prediction 
+# Dance Party Song Prediction 
 
 ## Data Source:
   DataCamp 

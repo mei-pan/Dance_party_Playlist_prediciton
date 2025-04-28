@@ -14,7 +14,6 @@ Music plays a crucial role in setting the mood for any dance party—it can eith
 
 This project focuses on building a predictive model to curate a dance-themed playlist using music features and machine learning. Leveraging track-level data such as tempo, energy, danceability, and valence, the model aims to identify songs most likely to get attendees on their feet. The goal is to predict whether a song fits a dance party vibe, helping automate the playlist creation process with data-driven insights.
 
-By combining technical skills with an appreciation for music, this project demonstrates how machine learning can be used in creative, real-world scenarios. From data preprocessing to model evaluation, every step is tailored to strike the perfect balance between analytics and entertainment. In the end, it's not just about predictions—it's about creating a memorable night where the music never misses a beat.
 
 ## [Notebook Link](https://github.com/mei-pan/Dance_party_Playlist_prediciton/blob/main/dance_party_song_list.ipynb) 
 
